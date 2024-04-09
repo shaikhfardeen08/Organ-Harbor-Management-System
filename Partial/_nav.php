@@ -58,10 +58,7 @@
         </li>
         <li class="nav-item">
           <a class ="nav-link myHover" href="/Organdonation/Donor.php">Donor</a>
-        </li> 
-        <li class="nav-item">
-          <a class ="nav-link myHover" href="/Organdonation/Contact_us.php">About Us</a>
-        </li> 
+        </li>  
       </ul>
       </form>
     </div>
