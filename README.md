@@ -1,15 +1,51 @@
-# Organ-Harbor-Management-System
-🌟 Excited to share my final year project, the Organ Harbor Donation Management System! 
-🌟  ℹ️ Overview: 
-Organ Harbor is a comprehensive online platform designed to streamline the organ donation process, connecting donors with recipients in need of life-saving transplants. 
-Our system provides a user-friendly interface for donors, recipients, and healthcare professionals, facilitating efficient communication, matching, and coordination of organ donations.  
-🔍 Key Features:  
-User-friendly registration and profile management for donors and recipients Advanced search and matching algorithms to pair compatible donors and recipients Real-time notifications and updates for donors and recipients throughout the donation process Secure storage and management of medical records and documentation Collaborative tools for healthcare professionals to oversee and coordinate donation procedures 
-💡 Benefits:  
-Increases accessibility and transparency in the organ donation process Improves efficiency and reduces wait times for organ transplants Enhances communication and collaboration among stakeholders Empowers individuals to make life-saving contributions to those in need 
-🚀 Join us in revolutionizing organ donation and saving lives! Check out Organ Harbor today.
-🔰Admin Credentials:
-Username:Admin
-Password:Admin
+# Organ Harbor Donation Management System
 
-#OrganDonation #HealthTech #FinalYearProject
+## Overview
+Organ Harbor Donation Management System is a web-based platform designed to streamline the process of organ donation. It facilitates the registration of donors and patients, matches donors with compatible patients based on various criteria, and tracks the progress of organ donation procedures.
+
+## Features
+- **Donor Registration**: Allows individuals to register as organ donors by providing their personal information, medical history, and organ donation preferences.
+- **Patient Registration**: Enables patients in need of organ transplants to register and specify their medical condition and required organ.
+- **Matching Algorithm**: Utilizes a matching algorithm to pair compatible donors with patients based on factors such as blood type, organ compatibility, and medical urgency.
+- **Transplant Process Tracking**: Tracks the progress of organ donation procedures from registration to transplantation, providing real-time updates to stakeholders.
+- **Admin Panel**: Provides administrators with tools to manage donor and patient records, monitor donation processes, and generate reports.
+
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
+- **Framework**: Bootstrap
+- **Version Control**: Git
+
+## Installation
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/shaikhfardeen08/Organ-Harbor-Management-System.git
+   ```
+2. Import the database schema located in the `database` directory into your MySQL database server.
+3. Configure the database connection settings in the `config.php` file.
+4. Deploy the application on a web server with PHP support.
+
+## Usage
+1. Access the application through a web browser.
+2. Register as a donor or patient.
+3. Administer the system through the admin panel to manage records and monitor donation processes.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/new-feature`).
+6. Create a new Pull Request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+- This project was developed as part of the final year project at Maulana Azad College.
+
+---
+
+Feel free to customize this template to better fit the specifics of your project. Make sure to include any additional information or sections that you think would be helpful for users and contributors.
