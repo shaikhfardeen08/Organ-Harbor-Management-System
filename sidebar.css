@@ -1,0 +1,48 @@
+<style>
+        /* Add this style for the close button */
+        #close-sidebar {
+            color: red;
+            cursor: pointer;
+            font-size: 30px;
+        }
+
+        /* Add this style for the panel */
+        .panel {
+            background-color: #f7f7f7;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Add this style for the hand icon */
+        .hand-icon {
+            font-size: 24px;
+            cursor: pointer;
+        }
+        .center-heading{
+               text-align: center;
+        }
+        .toggle-sidebar{
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div id="toggle-sidebar">&#9776;
+    </div>
+
+    <div class="sidebar active">
+        <div id="close-sidebar">&times;</div>
+        <link rel="stylesheet" href="Adminpanelbar.css">
+        <ul>
+            <li><a href="Adminpanel.php">Donor Details</a></li>
+            <li><a href="Patientdetailpanel.php">Patient Details</a></li>
+            <li><a href="Searchdonorpanel.php">Search Donor</a></li>
+            <li><a href="Searchpatientpanel.php">Search Patient</a></li>
+            <li><a href="Donatedptpanel.php">Donated Patients</a></li>
+            <li><a href="Ntdonatedptpanel.php">Not Donated Patients</a></li>
+            <li><a href="Orgdonateprocess.php">Organ Donate Process</a></li>
+            <li><a href="Adminlogin.php">Log Out</a></li>
+        </ul>
+    </div>
