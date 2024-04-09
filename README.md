@@ -8,4 +8,8 @@ User-friendly registration and profile management for donors and recipients Adva
 💡 Benefits:  
 Increases accessibility and transparency in the organ donation process Improves efficiency and reduces wait times for organ transplants Enhances communication and collaboration among stakeholders Empowers individuals to make life-saving contributions to those in need 
 🚀 Join us in revolutionizing organ donation and saving lives! Check out Organ Harbor today.
- #OrganDonation #HealthTech #FinalYearProject
+🔰Admin Credentials:
+Username:Admin
+Password:Admin
+
+#OrganDonation #HealthTech #FinalYearProject
