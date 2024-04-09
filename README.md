@@ -47,5 +47,8 @@ This project is licensed under the [MIT License](LICENSE).
 - This project was developed as part of the final year project at Maulana Azad College.
 
 ---
+## Login Credenetials
+Username : Admin   
+Password : Admin
 
 Feel free to customize this template to better fit the specifics of your project. Make sure to include any additional information or sections that you think would be helpful for users and contributors.
