@@ -50,5 +50,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Login Credentials
 Username : Admin   
 Password : Admin
-
-Feel free to customize this template to better fit the specifics of your project. Make sure to include any additional information or sections that you think would be helpful for users and contributors.
